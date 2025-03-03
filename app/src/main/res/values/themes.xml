@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WeatherProMax" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimaryDark">@color/black1</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.WeatherProMax" parent="Base.Theme.WeatherProMax" />
+</resources>
